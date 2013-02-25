@@ -60,3 +60,4 @@ Wiki: http://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
 * Forth in Thailand: http://www.gets.co.th/en/pdf/ATC/ATC_en.pdf
 * http://www.atransociety.com/2013/pdf/5thSymposiumDownloadable/FullPaper/2D/SCS12-010.pdf
 * Traffic Signal Control System: http://ntl.bts.gov/lib/jpodocs/edldocs1/13480/ch3.pdf
+* http://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
