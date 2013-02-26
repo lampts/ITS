@@ -51,6 +51,12 @@ Cycle time in bangkok(500s, 400s in peak periods), in Western 180-240s
 Traffic pattern at each intersection is various
 Queue length: network experiences whether oversaturation -> estimate cycle length -> optimal flow
 
+**Occupancy calculation**
+
+Having vehicle size = 4m, speed = 60Km/h, flow rate is 1200 vehicle/hour, what is relative occupancy?
+* vehicle in space: flow rate/ speed = 1200/60 = 20 vehicles/km ~ 1 vehicle -> 50 m
+* Real size / given space: 4/50 = 8%
+
 
 # Picks
 
@@ -109,3 +115,4 @@ Wiki: http://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
 * http://www.atransociety.com/2013/pdf/5thSymposiumDownloadable/FullPaper/2D/SCS12-010.pdf
 * Traffic Signal Control System: http://ntl.bts.gov/lib/jpodocs/edldocs1/13480/ch3.pdf
 * http://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
+* http://www.mech.kuleuven.be/cib/verkeer/dwn/H111part3.pdf
