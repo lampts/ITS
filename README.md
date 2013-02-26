@@ -4,7 +4,9 @@ Overview: http://www.youtube.com/watch?v=oQpU39CyLa0
 
 Details here: http://en.wikipedia.org/wiki/Intelligent_transportation_system
 
-# Key words: Urban traffic signal control (UTC), optimized traffic signal control, lane management, auto alarm, saturation, cycle time, green time,
+# Key words: 
+
+Urban traffic signal control (UTC), optimized traffic signal control, lane management, auto alarm, saturation, cycle time, green time,
 merci extension of green
 
 # Traffic pattern
