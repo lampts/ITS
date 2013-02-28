@@ -9,6 +9,13 @@ Details here: http://en.wikipedia.org/wiki/Intelligent_transportation_system
 Urban traffic signal control (UTC), optimized traffic signal control, lane management, auto alarm, saturation, cycle time, green time,
 merci extension of green
 
+Traffic light: set it and forget it
+
+Fiber network, ITS express: http://www.itsexpress.com/
+
+PTZ camera
+
+
 # Traffic pattern
 
 Inputs: Volume, occupancy, speed, queue length, vehicle type, images
@@ -116,3 +123,4 @@ Wiki: http://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
 * Traffic Signal Control System: http://ntl.bts.gov/lib/jpodocs/edldocs1/13480/ch3.pdf
 * http://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
 * http://www.mech.kuleuven.be/cib/verkeer/dwn/H111part3.pdf
+* http://www.mautc.psu.edu/docs/mautc-2008-02.pdf
