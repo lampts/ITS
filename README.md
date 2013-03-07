@@ -1,5 +1,12 @@
 ITS
 ===
+
+* Australia: http://livetraffic.rta.nsw.gov.au/desktop.html#textview
+* Camera spec: http://en.wikipedia.org/wiki/Traffic_camera
+* Central software:http://en.wikipedia.org/wiki/IRIS_(transportation_software)
+
+
+
 Overview: http://www.youtube.com/watch?v=oQpU39CyLa0
 
 Details here: http://en.wikipedia.org/wiki/Intelligent_transportation_system
