@@ -16,12 +16,33 @@ Details here: http://en.wikipedia.org/wiki/Intelligent_transportation_system
 Urban traffic signal control (UTC), optimized traffic signal control, lane management, auto alarm, saturation, cycle time, green time,
 merci extension of green
 
+Traffic variables (such as headway, speed, density) 
+
 Traffic light: set it and forget it
 
 Fiber network, ITS express: http://www.itsexpress.com/
 
+It may be appropriate to use different values for the same vehicle type according to circumstances. For example, in the UK in the 1960s and 1970s, bicycles were evaluated thus:
+
+* on rural roads 0.5
+* on urban roads 0.33
+* on roundabouts 0.5
+* at traffic lights 0.2
+
 PTZ camera
 
+# Modeling goals
+* Simulation
+* Optimisation
+* Modeling levels
+* Lane
+* Road
+* Intersection
+* Network
+
+* Turning behavior
+* PCE: http://en.wikipedia.org/wiki/Passenger_car_equivalent
+* PCU Passenger Car Unit
 
 # Traffic pattern
 
